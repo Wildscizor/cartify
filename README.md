@@ -13,11 +13,11 @@ Full-stack shopping cart application built with **React (Vite)** on the frontend
 ---
 
 ## Project Structure
-cartify-main/
+```cartify-main/
 ├── client/ # React (Vite) frontend
 ├── server/ # Express backend
 └── netlify.toml # Netlify build config
-
+```
 ---
 
 ## 🖥️ Running Locally
